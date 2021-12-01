@@ -1,0 +1,32 @@
+{
+  "name": "cat-energy",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000c\u0000a\u0000t\u0000-\u0000e\u0000n\u0000e\u0000r\u0000g\u0000y\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp start-source"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikitaRomanyuk/cat-energy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikitaRomanyuk/cat-energy/issues"
+  },
+  "homepage": "https://github.com/NikitaRomanyuk/cat-energy#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.0",
+    "browser-sync": "^2.27.7",
+    "gulp": "^4.0.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "plumber": "^0.4.8",
+    "postcss": "^8.4.4",
+    "sass": "^1.44.0",
+    "sourcemap": "^0.1.0"
+  }
+}
